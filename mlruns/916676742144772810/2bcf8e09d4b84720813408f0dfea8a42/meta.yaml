@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/2bcf8e09d4b84720813408f0dfea8a42/artifacts
+end_time: 1740316605284
+entry_point_name: ''
+experiment_id: '916676742144772810'
+lifecycle_stage: active
+run_id: 2bcf8e09d4b84720813408f0dfea8a42
+run_name: carefree-mare-812
+run_uuid: 2bcf8e09d4b84720813408f0dfea8a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740316605222
+status: 3
+tags: []
+user_id: wer

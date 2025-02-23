@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/c2473047ec1d4713a119bb26852d6384/artifacts
+end_time: 1740316605629
+entry_point_name: ''
+experiment_id: '916676742144772810'
+lifecycle_stage: active
+run_id: c2473047ec1d4713a119bb26852d6384
+run_name: casual-bird-126
+run_uuid: c2473047ec1d4713a119bb26852d6384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740316605535
+status: 3
+tags: []
+user_id: wer

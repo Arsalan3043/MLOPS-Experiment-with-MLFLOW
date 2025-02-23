@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/6131abf21ad24be489cad85d069341ee/artifacts
+end_time: 1740316605535
+entry_point_name: ''
+experiment_id: '916676742144772810'
+lifecycle_stage: active
+run_id: 6131abf21ad24be489cad85d069341ee
+run_name: carefree-swan-850
+run_uuid: 6131abf21ad24be489cad85d069341ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740316605432
+status: 3
+tags: []
+user_id: wer

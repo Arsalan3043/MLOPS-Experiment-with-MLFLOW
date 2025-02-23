@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/b3cd5b2bfdc04743abd63c04b7b453f6/artifacts
+end_time: 1740316605206
+entry_point_name: ''
+experiment_id: '916676742144772810'
+lifecycle_stage: active
+run_id: b3cd5b2bfdc04743abd63c04b7b453f6
+run_name: clean-robin-539
+run_uuid: b3cd5b2bfdc04743abd63c04b7b453f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740316605144
+status: 3
+tags: []
+user_id: wer

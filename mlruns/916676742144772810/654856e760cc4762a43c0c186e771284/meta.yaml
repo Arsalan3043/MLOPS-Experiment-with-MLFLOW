@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/654856e760cc4762a43c0c186e771284/artifacts
+end_time: 1740316604705
+entry_point_name: ''
+experiment_id: '916676742144772810'
+lifecycle_stage: active
+run_id: 654856e760cc4762a43c0c186e771284
+run_name: luminous-shrew-77
+run_uuid: 654856e760cc4762a43c0c186e771284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740316604626
+status: 3
+tags: []
+user_id: wer

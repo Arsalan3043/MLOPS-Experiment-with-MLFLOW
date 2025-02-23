@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/5f921f477ed74314b853396be70a2b8b/artifacts
+end_time: 1740316605128
+entry_point_name: ''
+experiment_id: '916676742144772810'
+lifecycle_stage: active
+run_id: 5f921f477ed74314b853396be70a2b8b
+run_name: sneaky-fawn-37
+run_uuid: 5f921f477ed74314b853396be70a2b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740316605050
+status: 3
+tags: []
+user_id: wer

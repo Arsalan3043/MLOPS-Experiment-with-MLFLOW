@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/74e5bb5348cc485aa8c4dabd08663f04/artifacts
+end_time: 1740316605034
+entry_point_name: ''
+experiment_id: '916676742144772810'
+lifecycle_stage: active
+run_id: 74e5bb5348cc485aa8c4dabd08663f04
+run_name: capable-wasp-818
+run_uuid: 74e5bb5348cc485aa8c4dabd08663f04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740316604956
+status: 3
+tags: []
+user_id: wer

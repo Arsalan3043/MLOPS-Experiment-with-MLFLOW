@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740321766927
+current_stage: None
+description: ''
+last_updated_timestamp: 1740321766927
+name: Arsalan-Model-1
+run_id: 497335c68c3f44fcb7216705ae16424b
+run_link: ''
+source: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/497335c68c3f44fcb7216705ae16424b/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/497335c68c3f44fcb7216705ae16424b/artifacts/random_forest
+user_id: null
+version: 1

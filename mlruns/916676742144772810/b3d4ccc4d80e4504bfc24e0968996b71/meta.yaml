@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/b3d4ccc4d80e4504bfc24e0968996b71/artifacts
+end_time: 1740315828444
+entry_point_name: ''
+experiment_id: '916676742144772810'
+lifecycle_stage: active
+run_id: b3d4ccc4d80e4504bfc24e0968996b71
+run_name: stately-sow-424
+run_uuid: b3d4ccc4d80e4504bfc24e0968996b71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740315812993
+status: 3
+tags: []
+user_id: wer

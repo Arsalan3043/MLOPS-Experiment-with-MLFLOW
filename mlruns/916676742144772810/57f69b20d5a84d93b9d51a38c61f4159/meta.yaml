@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wer/Desktop/MLOPS/MLOPS-Experiment-with-MLFLOW/mlruns/916676742144772810/57f69b20d5a84d93b9d51a38c61f4159/artifacts
+end_time: 1740316604941
+entry_point_name: ''
+experiment_id: '916676742144772810'
+lifecycle_stage: active
+run_id: 57f69b20d5a84d93b9d51a38c61f4159
+run_name: honorable-goose-892
+run_uuid: 57f69b20d5a84d93b9d51a38c61f4159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740316604876
+status: 3
+tags: []
+user_id: wer
