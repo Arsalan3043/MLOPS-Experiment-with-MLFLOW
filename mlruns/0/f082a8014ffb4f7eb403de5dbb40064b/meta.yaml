@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f082a8014ffb4f7eb403de5dbb40064b/artifacts
+end_time: 1740078350017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f082a8014ffb4f7eb403de5dbb40064b
+run_name: charming-pug-804
+run_uuid: f082a8014ffb4f7eb403de5dbb40064b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740078349936
+status: 3
+tags: []
+user_id: wer

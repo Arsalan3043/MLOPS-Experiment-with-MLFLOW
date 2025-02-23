@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/40a23c6f4d104b30bb13bb0288bd0c12/artifacts
+end_time: 1740079712108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40a23c6f4d104b30bb13bb0288bd0c12
+run_name: abrasive-sloth-430
+run_uuid: 40a23c6f4d104b30bb13bb0288bd0c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740079711387
+status: 3
+tags: []
+user_id: wer

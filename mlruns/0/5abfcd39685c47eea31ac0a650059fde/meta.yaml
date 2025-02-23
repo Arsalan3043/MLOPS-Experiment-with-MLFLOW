@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5abfcd39685c47eea31ac0a650059fde/artifacts
+end_time: 1740078048269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5abfcd39685c47eea31ac0a650059fde
+run_name: serious-penguin-98
+run_uuid: 5abfcd39685c47eea31ac0a650059fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740078048098
+status: 3
+tags: []
+user_id: wer

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/709937001400121853/d8f700bb8ba540489f90f9bc85d226cb/artifacts
+end_time: 1740306667175
+entry_point_name: ''
+experiment_id: '709937001400121853'
+lifecycle_stage: active
+run_id: d8f700bb8ba540489f90f9bc85d226cb
+run_name: resilient-loon-27
+run_uuid: d8f700bb8ba540489f90f9bc85d226cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740306658776
+status: 3
+tags: []
+user_id: wer

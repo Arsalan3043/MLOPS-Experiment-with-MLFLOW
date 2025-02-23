@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/709937001400121853/fbef1147687b41a4ab9edb540c14877a/artifacts
+end_time: 1740301079158
+entry_point_name: ''
+experiment_id: '709937001400121853'
+lifecycle_stage: active
+run_id: fbef1147687b41a4ab9edb540c14877a
+run_name: thundering-wren-362
+run_uuid: fbef1147687b41a4ab9edb540c14877a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740301078481
+status: 3
+tags: []
+user_id: wer
